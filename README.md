@@ -2,6 +2,6 @@
 Repositorio del curso Python FullStack de Codo a Codo 4.0 2023
 
 ### Actividades 
-- [Presentacion](https://gabygramajo.github.io/PythonFullStack-CoC2023/presentacion/)
+- [Presentacion](https://gabygramajo.github.io/PythonFullStack-CoC2023/presentacion/index.html)
 - [Actividad Practica](https://gabygramajo.github.io/PythonFullStack-CoC2023/1_AP/index.html)
-- [Actividad de investigacion 2](https://gabygramajo.github.io/PythonFullStack-CoC2023/actividadDeInvestigacion/)
+- [Actividad de investigacion 2](https://gabygramajo.github.io/PythonFullStack-CoC2023/actividadDeInvestigacion/index.html)
