@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+}
+* {
+  font-family: Verdana;
+}
+h1 {
+  text-align: center;
+}
+header {
+  background-color: black;
+  color: white;
+}
+.nav {
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: none;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
